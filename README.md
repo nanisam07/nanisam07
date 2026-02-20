@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Karrela Samuel Victor
 
 🎓 **Computer Science Engineering Student** at Mallareddy Institute of Engineering and Technology  
-🌐 Aspiring Web Developer | 💻 Tech Enthusiast | 🎶 Music Lover
-
+🌐 Aspiring Web Developer | 💻 Tech Enthusiast | Full-stack developer | GSoC 2026 aspirant  
+Next.js • Node.js • Open Source
 ---
 
 ## 🚀 About Me
